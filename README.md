@@ -28,3 +28,8 @@ This is a board that displays the title and URL of the RSS feed configured durin
 - Native code compatible
 
 Currently, this is a library for synchronizing variables. Variables are automatically synchronized by implementing the Serialization and Deserialization methods of the variable synchronization provider. Interpolation is not supported.
+
+## License
+This repository contains material that was previously made available under a different license.
+If you have accepted the terms of the previous license, you may continue to use the material under those terms.
+If you obtained a copy of the material elsewhere, you may also use it under the same license.
