@@ -6,12 +6,14 @@ This repository manages the prefabs and scripts created by cathiecode for BasisV
 - Prop compatible
 - Scene compatible
 - Native code compatible
+
 This is a very basic pen asset. It renders using a LineRenderer. Lines are synchronized, including late-joiners.
 
 ## VeryBasicSwitch
 - Cilbox compatible
 - Scene compatible
 - Native code compatible
+
 A very basic switch asset. You can toggle the switch using BasisInteractableButton.
 
 ## RSSProp
@@ -19,6 +21,7 @@ A very basic switch asset. You can toggle the switch using BasisInteractableButt
 - Prop compatible
 - Scene compatible
 - Native code compatible
+
 This is a board that displays the title and URL of the RSS feed configured during the build. It can be used for topics of discussion, for example.
 
 ## BCUtils
